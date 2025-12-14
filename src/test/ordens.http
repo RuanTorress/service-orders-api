@@ -1,0 +1,12 @@
+
+
+
+
+
+POST http://localhost:3000/equipamentos
+Content-Type: application/json
+
+{
+  "nome": "Monitor Samsung",
+  "serie": "MNTR456"
+}
